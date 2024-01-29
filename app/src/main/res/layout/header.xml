@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#FDE27E"
+    android:layout_height="200dp">
+    <ImageView
+        android:id="@+id/tudyLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:src="@drawable/tudy_logo"/>
+    <TextView
+        android:id="@+id/link"
+        android:layout_below="@id/tudyLogo"
+        android:layout_marginTop="-40dp"
+        android:layout_marginStart="30dp"
+        android:textColor="#6B78ED"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://github.com/Codesloth15"
+        />
+
+</RelativeLayout>
