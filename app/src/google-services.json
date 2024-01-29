@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "832247263984",
+    "firebase_url": "https://tudy2-c3b14-default-rtdb.firebaseio.com",
+    "project_id": "tudy2-c3b14",
+    "storage_bucket": "tudy2-c3b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832247263984:android:68a1954d8cbe54df090835",
+        "android_client_info": {
+          "package_name": "axztecitsolution.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX8Z-_X57rEtJKF2h7FEglZMO97H_Wlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832247263984:android:0bb661f77d050d41090835",
+        "android_client_info": {
+          "package_name": "com.example.tudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX8Z-_X57rEtJKF2h7FEglZMO97H_Wlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832247263984:android:067ff2ad99ff098e090835",
+        "android_client_info": {
+          "package_name": "com.example.tudy3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX8Z-_X57rEtJKF2h7FEglZMO97H_Wlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
